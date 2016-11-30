@@ -1,0 +1,2477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document><name>My POIs</name> 
+
+<Folder><name>Facility</name>
+<Folder><name>airfield</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Aghirda Airfield</name>
+      <Point><coordinates>33.267469, 35.276111,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Akrotiri Airfield</name>
+      <Point><coordinates>32.987028, 34.590651,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Ayios Epiktotes Airfield</name>
+      <Point><coordinates>33.390549, 35.330871,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Ercan Airport</name>
+      <Point><coordinates>33.503115, 35.157208,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kingsfield Airstrip</name>
+      <Point><coordinates>33.713162, 35.013532,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Larnaka International Airport</name>
+      <Point><coordinates>33.609706, 34.870246,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Nicosia International Airport (Abandoned)</name>
+      <Point><coordinates>33.275, 35.1541667,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Paphos International Airport</name>
+      <Point><coordinates>32.485731, 34.718039,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>checkpoint </name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Agios Dometios Check Point</name>
+      <Point><coordinates>33.3231587907759, 35.180975415348,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Astrometis Border Crossing</name>
+      <Point><coordinates>33.0223157659551, 35.156918823344,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Ledras Check Point</name>
+      <Point><coordinates>33.3613688574326, 35.174375952543,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Pergamos Check Point</name>
+      <Point><coordinates>33.7069873637532, 35.0385636832075,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Strovilia Check Point</name>
+      <Point><coordinates>33.9012219635365, 35.096004559854,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>communication</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Cyprus Satellite Communications </name>
+      <Point><coordinates>33.382338, 34.861144,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Troodos TV Tower</name>
+      <Point><coordinates>32.8625, 34.9375,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>embassy</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>American Embassy</name>
+      <Point><coordinates>33.3430767059326, 35.1661957406638,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>British High Commission</name>
+      <Point><coordinates>33.346889, 35.181887,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>China Embassy</name>
+      <Point><coordinates>33.3257711, 35.1616349,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>France Embassy</name>
+      <Point><coordinates>33.3525932, 35.159021,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Germany Embassy</name>
+      <Point><coordinates>33.3520889, 35.1598806,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Greece Embassy</name>
+      <Point><coordinates>33.3537626, 35.1700723,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Indian High Commission</name>
+      <Point><coordinates>33.3209753, 35.160863,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>factory or plants</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Dhekelia Power Station</name>
+      <Point><coordinates>33.7458333, 34.9791667,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Moni Cement Works</name>
+      <Point><coordinates>33.1916667, 34.7083333,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Moni Power Station</name>
+      <Point><coordinates>33.1833333, 34.7083333,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>farm</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Larnaca Paws Dog Shelter </name>
+      <Point><coordinates>32.4954987, 34.7293394,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Malcolm Akrotiri Cat sanctuary</name>
+      <Point><coordinates>32.948094, 34.629619,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Mazotos Camel Farm</name>
+      <Point><coordinates>33.50742, 34.800246,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Ostrich Farm</name>
+      <Point><coordinates>32.6916666666667, 34.6936111111111,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Psilo Dhendhro Trout Farm</name>
+      <Point><coordinates>32.92419, 34.958299,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Sirius Dog Shelter</name>
+      <Point><coordinates>33.198261, 34.716273,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Vouni Donkey Farm</name>
+      <Point><coordinates>32.829261, 34.827301,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>hotel</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Aphrodite Intercontinental Hotel</name>
+      <Point><coordinates>32.608405, 34.681641,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Columbia Pissouri Beach Hotel</name>
+      <Point><coordinates>32.719725, 34.650154,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Coral Beach Hotel and Resort</name>
+      <Point><coordinates>32.363684, 34.857511,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Grecian Park Hotel</name>
+      <Point><coordinates>34.06755, 34.985487,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Le Meridien Limassol Spa and Resort</name>
+      <Point><coordinates>33.1694, 34.7129,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Nissi Beach Hotel</name>
+      <Point><coordinates>33.965365, 34.986929,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>mine</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Asmantos Asbestos Mine</name>
+      <Point><coordinates>32.9166667, 34.925,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kalavasos Mine</name>
+      <Point><coordinates>33.2583333, 34.7916667,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Xylophaghou Quarry</name>
+      <Point><coordinates>33.8803983, 34.9606156,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>official</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Archbishoporic Palace</name>
+      <Point><coordinates>33.3680919606077, 35.1729026959972,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Immigration Office</name>
+      <Point><coordinates>33.353467, 35.170677,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Limassol city Administration</name>
+      <Point><coordinates>33.044023, 34.67497,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Paralimni Municipality</name>
+      <Point><coordinates>33.983786, 35.040389,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Presidential Cottage</name>
+      <Point><coordinates>32.875, 34.9166667,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Yermasoyia Municipality</name>
+      <Point><coordinates>33.084686, 34.720729,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>port</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Larnaca Port</name>
+      <Point><coordinates>33.6416667, 34.925,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Limassol Port</name>
+      <Point><coordinates>33.0166667, 34.65,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Vasilikos Port</name>
+      <Point><coordinates>33.3166667, 34.7208333,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>shooting</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Archery Range</name>
+      <Point><coordinates>33.088405, 34.719199,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Barreta Clay Pigeon Shooting</name>
+      <Point><coordinates>32.912076, 34.79451,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>ski</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Zeus Ski Lift (Troodos) </name>
+      <Point><coordinates>32.8654933, 34.9366606,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder></Folder>
+<Folder><name>History</name>
+<Folder><name>ancient</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Amathus City-Site</name>
+      <Point><coordinates>33.143991, 34.711861,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Amphitheatre ruins</name>
+      <Point><coordinates>32.4135698327323, 34.7608964607178,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Ayia Solomoni Catacomb</name>
+      <Point><coordinates>32.4123301201297, 34.7583769180844,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Ayios Nikolaos Church</name>
+      <Point><coordinates>32.8972932320468, 34.9988402962727,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Baths Of Aphrodite</name>
+      <Point><coordinates>32.3444444444444, 35.0561111111111,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Choirokoitia Neolithic Site</name>
+      <Point><coordinates>33.3444527, 34.7963474,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Engomi Tumulus</name>
+      <Point><coordinates>33.88927, 35.163648,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kalavasos Tenta</name>
+      <Point><coordinates>33.3032137, 34.7525351,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Khirokitia Settlement</name>
+      <Point><coordinates>33.344484, 34.796303,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kourion</name>
+      <Point><coordinates>32.8875514011463, 34.6642325841034,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kourion Stadium</name>
+      <Point><coordinates>32.876132, 34.670376,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Lambousa City-Site</name>
+      <Point><coordinates>33.2041667, 35.3583333,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Lambousa Roman Fish Tank</name>
+      <Point><coordinates>33.197974, 35.358116,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Paleokastro City-Site</name>
+      <Point><coordinates>32.9373231043714, 35.3113248492282,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Paphos City-Site</name>
+      <Point><coordinates>32.4083333, 34.7583333,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Pyla Tomb (approx)</name>
+      <Point><coordinates>33.7, 35.0041667,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Pyla Watch Tower (approx)</name>
+      <Point><coordinates>33.6916667, 35.0166667,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Rock Of Aphrodite</name>
+      <Point><coordinates>32.6266666666667, 34.6638888888889,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Salamis City-Site</name>
+      <Point><coordinates>33.903454, 35.18668,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Sanctuary Of Apollo Hylates</name>
+      <Point><coordinates>32.863945, 34.672173,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Soli Amphitheatre City-Site</name>
+      <Point><coordinates>32.811698, 35.13966,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Temple of Aphrodite</name>
+      <Point><coordinates>32.5747517448071, 34.7084676943161,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Tombs Of The Kings</name>
+      <Point><coordinates>32.407488, 34.774916,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Toumba tou Skourou Settlement (approx)</name>
+      <Point><coordinates>33.000868170546, 35.2243317121666,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Vouni Palace</name>
+      <Point><coordinates>32.7732357178249, 35.159162003563,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Xylophaghou Watch Tower (approx)</name>
+      <Point><coordinates>33.8583333, 34.9541667,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>bath</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Buyuk Hamam</name>
+      <Point><coordinates>33.3616492915734, 35.1768262861577,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Omeriye Baths</name>
+      <Point><coordinates>33.3651985077664, 35.1725093831433,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>bridge</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Elia Bridge</name>
+      <Point><coordinates>32.775, 34.8958333,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kelefos Venetian Bridge</name>
+      <Point><coordinates>32.7472222222222, 34.8894444444444,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Mhila Venetian Bridge</name>
+      <Point><coordinates>32.8657132, 34.8771671,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Mintzeli Bridge</name>
+      <Point><coordinates>33.3416667, 35.2083333,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Panayia Bridge</name>
+      <Point><coordinates>33.083333, 35.016667,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Piskopy Venetian Bridge</name>
+      <Point><coordinates>32.8086111111111, 34.89,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Roudia Venetian Bridge</name>
+      <Point><coordinates>32.687459, 34.8916292,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Skarphos Bridge</name>
+      <Point><coordinates>32.513452, 34.953713,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>castle</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Buffavento Castle</name>
+      <Point><coordinates>33.409334, 35.287176,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Famagusta Gate</name>
+      <Point><coordinates>33.3709463793757, 35.1743521344507,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kantara Castle</name>
+      <Point><coordinates>33.923343, 35.406491,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kolossi Castle</name>
+      <Point><coordinates>32.934235, 34.665119,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kyrenia Castle</name>
+      <Point><coordinates>33.3227778, 35.3425,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kyrenia Gate</name>
+      <Point><coordinates>33.3617062010825, 35.1817448683596,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Larnaca Castle</name>
+      <Point><coordinates>33.637592, 34.910361,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Limassol Castle</name>
+      <Point><coordinates>33.04203, 34.672274,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Othello Fort</name>
+      <Point><coordinates>33.943393, 35.127818,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Paphos Castle </name>
+      <Point><coordinates>32.4069444444444, 34.7536111111111,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Saint Hilarion Castle</name>
+      <Point><coordinates>33.280918, 35.312394,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Saranda Kolones Castle</name>
+      <Point><coordinates>32.409634, 34.757512,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>museum</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Lapidary Museum</name>
+      <Point><coordinates>33.3657285833915, 35.1766303539017,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Lusignan House</name>
+      <Point><coordinates>33.366499216608, 35.1781663807936,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Platini Museum</name>
+      <Point><coordinates>33.42748, 34.951567,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Mevlevi Tekke/whirling Dervishes</name>
+      <Point><coordinates>33.3617966229872, 35.1808855137347,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>ruin</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Afendika ruins</name>
+      <Point><coordinates>34.4409622768266, 35.647918911762,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Amathus ruins</name>
+      <Point><coordinates>33.1403872492118, 34.7118175637093,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Ayia Ekaterini</name>
+      <Point><coordinates>33.4429385147893, 35.047809881727,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Ayia Marina</name>
+      <Point><coordinates>32.4647327496966, 35.0171431953521,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Ayios Yeoryios</name>
+      <Point><coordinates>33.9336456356287, 35.0287163383737,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Ayis Kyriakos</name>
+      <Point><coordinates>32.7333853540254, 35.0422195438107,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Bellapais Abbey</name>
+      <Point><coordinates>33.3553733508883, 35.30739652284,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Chrysogialiotissa Gregorian church ruin</name>
+      <Point><coordinates>32.5552858034707, 35.0894524512088,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Fabrica Hill Caves Mines</name>
+      <Point><coordinates>32.4127353992298, 34.7624692876211,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kato Pyrgos Tower ruins</name>
+      <Point><coordinates>32.6907317262098, 35.1837070153,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Khristos and Panayia Aphendrika</name>
+      <Point><coordinates>33.4181531278312, 35.2744625639394,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Old Nicosia ruins</name>
+      <Point><coordinates>33.3659927581784, 35.1734878522391,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Sigouris Castle</name>
+      <Point><coordinates>33.7458333, 35.1416667,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>tomb</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Makarios Tomb</name>
+      <Point><coordinates>32.7314848, 34.9835747,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Malloura Tombs</name>
+      <Point><coordinates>33.5122114, 35.028437,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Tomb Of St. Barnabas</name>
+      <Point><coordinates>33.880375, 35.174396,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>tower</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Alaminos Tower</name>
+      <Point><coordinates>33.438090, 34.806101,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kiti Tower, Regina</name>
+      <Point><coordinates>33.602, 34.8327,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Mediaeval Tower</name>
+      <Point><coordinates>32.42516, 34.77193,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Othello's Tower</name>
+      <Point><coordinates>33.943490, 35.127742,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Paphos Lighthouse </name>
+      <Point><coordinates>32.4061111111111, 34.7602777777778,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Venetian Tower</name>
+      <Point><coordinates>33.3608949479124, 35.1781633005489,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder></Folder>
+<Folder><name>Misc</name>
+<Folder><name>point</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Buyuk Han/Great Inn</name>
+      <Point><coordinates>33.3623685881097, 35.1763547228788,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kidasi Rock Cut Road</name>
+      <Point><coordinates>32.702371, 34.795814,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Liberty Monument</name>
+      <Point><coordinates>33.3701556906298, 35.1715582868361,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Pancyprian School</name>
+      <Point><coordinates>33.3684600186446, 35.1735366125178,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder></Folder>
+<Folder><name>Nature</name>
+<Folder><name>cliff</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kremmos tis Laonas Cliff</name>
+      <Point><coordinates>32.7833333, 34.8625,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>forest</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Cedar Valley</name>
+      <Point><coordinates>32.6862681, 34.9881104,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>gorge</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Avakas Gorge</name>
+      <Point><coordinates>32.3455095, 34.9242934,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder></Folder>
+<Folder><name>Religious</name>
+<Folder><name>church</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Agios Antonios Church</name>
+      <Point><coordinates>33.3678980791634, 35.171718582169,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Agios Georgios Church, Akrotiri</name>
+      <Point><coordinates>32.9397288, 34.603347,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Feneromeni Church</name>
+      <Point><coordinates>33.3625369863977, 35.173455016792,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>monastery</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Apostolos Varnavas Monastery</name>
+      <Point><coordinates>33.8800070190174, 35.1746315533434,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Ayia Nicolaus Monastery</name>
+      <Point><coordinates>32.6208333, 34.9,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Ayios Iraklidhios Monastery</name>
+      <Point><coordinates>33.2435554381472, 35.0254230727238,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Ayios Neophytos Cave Monastery</name>
+      <Point><coordinates>32.447099, 34.846107,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Ayios Pandeleimon Monastery</name>
+      <Point><coordinates>33.0761597594279, 35.3091103431563,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kykkos Monastery</name>
+      <Point><coordinates>32.7410442, 34.9835044,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Mesapotamos Monastery</name>
+      <Point><coordinates>32.9096953275034, 34.8948086863112,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Monastery Of Saint Nicolas Of The Cats</name>
+      <Point><coordinates>32.9867522584965, 34.5995401180148,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Panagia Amiyrou Monastery</name>
+      <Point><coordinates>33.0426183304028, 34.7946834739986,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Panagia tou Sinti Monastery</name>
+      <Point><coordinates>32.6388888888889, 34.8363888888889,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Panagia Trikkokkias Monastery</name>
+      <Point><coordinates>32.8374265981479, 34.9368673835202,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Panayia Amaskon Monastery</name>
+      <Point><coordinates>32.9089843067962, 34.7990829028353,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Panayia Evangelistria Monastery</name>
+      <Point><coordinates>32.9753622098079, 34.7450723176219,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Panayia Khrysorroyiatissa Monastery</name>
+      <Point><coordinates>32.6188270446556, 34.909931562893,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Panayia Ton Katharon Monastery</name>
+      <Point><coordinates>33.1299502886364, 35.3086012994988,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Panayia tou Araka Monastery</name>
+      <Point><coordinates>33.0071125634765, 34.9655657486576,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Prophitis Elias Monastery</name>
+      <Point><coordinates>33.246892, 34.93383,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Sourp Magar Armernian Monastery</name>
+      <Point><coordinates>33.522, 35.2876,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Stavros tou Ayiasmati Monastery</name>
+      <Point><coordinates>33.0467500474242, 34.9789849589553,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Stavrovouni Monastery</name>
+      <Point><coordinates>33.4355271, 34.8859045,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Timios Stavros Monastery</name>
+      <Point><coordinates>32.7377944759277, 34.7307759726863,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Timios Stavros Omodos Monastery</name>
+      <Point><coordinates>32.80963103819, 34.8474435770895,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Troodhitissa Monastery</name>
+      <Point><coordinates>32.8375, 34.9125,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>mosque</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Arablar Mosque</name>
+      <Point><coordinates>33.3631813454855, 35.1734968293263,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Ayia Sofia Mosque</name>
+      <Point><coordinates>33.36440100018, 35.1765140003137,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Cathedral Mosque Famagusta</name>
+      <Point><coordinates>33.942334, 35.124821,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Hala Sultan Tekke</name>
+      <Point><coordinates>33.609966, 34.885106,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Hazreti Omer</name>
+      <Point><coordinates>33.386595, 35.335893,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Jami Kebir Mosque</name>
+      <Point><coordinates>33.637215, 34.910489,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kirklar Tekke Shrine</name>
+      <Point><coordinates>33.514409, 35.121027,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Omeriye Mosque</name>
+      <Point><coordinates>33.3652875286317, 35.1718604440268,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>Painted church</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Agia Aikaterini, Pyrga</name>
+      <Point><coordinates>33.430152, 34.926405,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Agia Christina, Askas</name>
+      <Point><coordinates>33.074598, 34.941058,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Agia Eirini (Timios Stavros)</name>
+      <Point><coordinates>32.969, 34.981,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Agia Marina, Pyrga</name>
+      <Point><coordinates>33.431826, 34.924821,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Agia Paraskevi, Yeroskipou</name>
+      <Point><coordinates>32.45298, 34.759516,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Agioi Ioachim kai Anna, Kaliana</name>
+      <Point><coordinates>32.884086, 35.01252,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Agios Evphemianos, Lysi</name>
+      <Point><coordinates>33.664722, 35.08575,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Agios Georgios ton Hellenon, Famagusta</name>
+      <Point><coordinates>33.943575, 35.123932,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Agios Georgios, Monagri</name>
+      <Point><coordinates>32.909734, 34.808571,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Agios Ioannis Chrysostomos, Koutsovendis</name>
+      <Point><coordinates>33.418436, 35.274108,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Agios Ioannis Evangelistis, Nicosia</name>
+      <Point><coordinates>33.367833, 35.173243,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Akanthou (Panagia Pergaminiotissa)</name>
+      <Point><coordinates>33.764, 35.384,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Akhelia (Agios Theodosios)</name>
+      <Point><coordinates>32.486, 34.738,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Aloa (Panagia Avgasida)</name>
+      <Point><coordinates>33.829, 35.212,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Antiphonitis, Kalograia</name>
+      <Point><coordinates>33.618851, 35.327101,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Askas (Timios Prodromos)</name>
+      <Point><coordinates>33.078, 34.929,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Catacomb of St. Solomoni, Paphos</name>
+      <Point><coordinates>32.4125, 34.761623,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Dali (Agios Demetrianos)</name>
+      <Point><coordinates>33.393, 35.013,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Emba (Panagia Chryseleousa)</name>
+      <Point><coordinates>32.417, 34.8,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Enkleistra and Monastery of Agios Neophytos, Tala</name>
+      <Point><coordinates>32.446404, 34.846424,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Galata (Agia Paraskevi)</name>
+      <Point><coordinates>32.898, 34.997,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Galata (Agios Sozomenos)</name>
+      <Point><coordinates>32.898, 34.997,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Galata (Panagia Theotokos)</name>
+      <Point><coordinates>32.898, 34.997,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Galataria (Agios Nikolaos)</name>
+      <Point><coordinates>32.632, 34.877,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kakopetria (Agios Georgios Perachoritis)</name>
+      <Point><coordinates>32.901, 34.987,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kakopetria (Panagia Theotokos)</name>
+      <Point><coordinates>32.901, 34.987,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kalopanagiotis (Agioi Andronikos kai Athanasia)</name>
+      <Point><coordinates>32.828, 34.992,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kaminaria (Agios Vasilios)</name>
+      <Point><coordinates>32.784, 34.928,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kaminaria (Timios Stavros)</name>
+      <Point><coordinates>32.784, 34.928,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kellia (Agios Antonios)</name>
+      <Point><coordinates>33.622, 34.975,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Koilani (Agia Mavra)</name>
+      <Point><coordinates>32.86, 34.844,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Koma tou Yialou (Agia Solomoni)</name>
+      <Point><coordinates>34.125, 35.423,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Koma tou Yialou (Agios Nikolaos)</name>
+      <Point><coordinates>34.125, 35.423,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kouka (Timios Stavros)</name>
+      <Point><coordinates>32.886, 34.85,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kouklia (Palaia Enkleistra)</name>
+      <Point><coordinates>32.593, 34.698,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Koutsovendis (Panagia Aphendrika)</name>
+      <Point><coordinates>33.418, 35.274,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kyrenia (Agia Mavra)</name>
+      <Point><coordinates>33.321, 35.339,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kyrenia (Khrysokava)</name>
+      <Point><coordinates>33.321, 35.339,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Lefkara (Archangelos Michael)</name>
+      <Point><coordinates>33.315, 34.862,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Letymvou (Agios Kirykos)</name>
+      <Point><coordinates>32.513, 34.855,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Livadia (Panagia Kyra)</name>
+      <Point><coordinates>34.025, 35.398,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Louvaras (Agios Mamas)</name>
+      <Point><coordinates>33.038, 34.836,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Monagri (Archangelos Michael)</name>
+      <Point><coordinates>32.86, 34.844,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Palaichori (Panagia Chrysopantanassa)</name>
+      <Point><coordinates>33.092794, 34.922094,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Palaiomylos (Timios Stavros)</name>
+      <Point><coordinates>32.823, 34.935,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Panagia Aggeloktisti, Kiti</name>
+      <Point><coordinates>33.570517, 34.84763,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Panagia Amasgou, Monagri</name>
+      <Point><coordinates>32.910082, 34.809575,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Panagia Apsinthiotissa, Sichari</name>
+      <Point><coordinates>33.389425, 35.283392,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Panagia Kanakaria, Lythrangomi</name>
+      <Point><coordinates>34.166021, 35.47846,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Panagia Katholiki, Kouklia</name>
+      <Point><coordinates>32.575096, 34.707204,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Pedoulas (Archangelos Michael)</name>
+      <Point><coordinates>32.445, 34.979,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Pelendri (Panagia Katholiki)</name>
+      <Point><coordinates>32.967, 34.896,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Pera Chorio (Agioi Apostoloi)</name>
+      <Point><coordinates>33.393, 35.013,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Peristerona (Barnabas kai Ilarion)</name>
+      <Point><coordinates>33.082, 35.13,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Polis Chrysochous (Agios Andronikos)</name>
+      <Point><coordinates>32.424, 35.039,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Potamia (Agios Sozomenos)</name>
+      <Point><coordinates>33.445, 35.042,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Rizokarpaso (Agia Mavri)</name>
+      <Point><coordinates>34.408, 35.618,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Rizokarpaso (Agios Philon)</name>
+      <Point><coordinates>34.441, 35.629,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Sygkrasi (Agios Prokopios)</name>
+      <Point><coordinates>33.857, 35.285,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Tersefanou (Agios Georgios tis Arperas)</name>
+      <Point><coordinates>33.546, 34.854,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Timios Stavros, Kyperounta</name>
+      <Point><coordinates>32.976124, 34.939238,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Trikomo (Panagia Theotokos)</name>
+      <Point><coordinates>33.89, 35.284,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Vyzakia (Archangelos Michael)</name>
+      <Point><coordinates>33.014, 35.077,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Xylofagou (Agios Georgios)</name>
+      <Point><coordinates>33.85, 34.977,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Yialousa (Agios Photios)</name>
+      <Point><coordinates>34.188, 35.535,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>Painted church UNESCO</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Ayios Ioannis Lambadhistis Monastery</name>
+      <Point><coordinates>32.830162862652, 34.9922387984211,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Ayios Nikolaos tis Stegis Monastery</name>
+      <Point><coordinates>32.8895813824306, 34.9773865539831,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Church Of Archangelos Michael, Pedhoulas</name>
+      <Point><coordinates>32.8314654552149, 34.967819205941,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Church Of Panayia Moutoullas</name>
+      <Point><coordinates>32.8242198624691, 34.9827257656924,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Church Of Panayia Phorviotissa Asinou Nikitari</name>
+      <Point><coordinates>32.9731426514204, 35.0462638540526,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Church Of Panayia Podhithou, Galata</name>
+      <Point><coordinates>32.8961656022543, 35.0035629422579,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Church Of Timios Stavros, Pelendri</name>
+      <Point><coordinates>32.9662576718743, 34.8931139084757,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Metamorfoseos Tou Sotiros, Palaichori</name>
+      <Point><coordinates>33.0947180294944, 34.9218427086522,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Panagia Chrysokourdaliotissa, Kourdali</name>
+      <Point><coordinates>32.95053, 34.974243,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Platanistasa (Stavros tou Agiasmati)</name>
+      <Point><coordinates>33.044, 34.946,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Stavros Tou Agiasmati Platanistasa</name>
+      <Point><coordinates>33.0469341097341, 34.9790714068567,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Timios Stavros, Lagoudera</name>
+      <Point><coordinates>33.007023, 34.965416,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>temple</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Hindu Temple </name>
+      <Point><coordinates>33.5088888888889, 35.0505555555556,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder></Folder>
+<Folder><name>Sea</name>
+<Folder><name>beach</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Golden Beach (North Cyprus)</name>
+      <Point><coordinates>34.552853, 35.642301,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Governor's Beach</name>
+      <Point><coordinates>33.2708333, 34.7166667,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Lady's Mile Beach</name>
+      <Point><coordinates>33.0041667, 34.6333333,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Limanouri</name>
+      <Point><coordinates>34.375, 35.5416667,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>McKenzie Beach</name>
+      <Point><coordinates>33.637594, 34.889523,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Toxeftra Beach</name>
+      <Point><coordinates>32.325, 34.9208333,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>cape</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Cape Apostolos Andreas</name>
+      <Point><coordinates>34.5833333, 35.7,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Cape Arnauti</name>
+      <Point><coordinates>32.2875, 35.1033333,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Cape Aspro</name>
+      <Point><coordinates>32.7166667, 34.6416667,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Cape Dolos</name>
+      <Point><coordinates>33.2708333, 34.7083333,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Cape Drepanum</name>
+      <Point><coordinates>32.3166667, 34.9,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Cape Elaia</name>
+      <Point><coordinates>34.0625, 35.325,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Cape Gata</name>
+      <Point><coordinates>33.0375, 34.5666667,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Cape Greco</name>
+      <Point><coordinates>34.0833333, 34.9333333,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Cape Kiti</name>
+      <Point><coordinates>33.6, 34.8166667,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Cape Kormakiti</name>
+      <Point><coordinates>32.9208333, 35.4019444,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Cape Limniti</name>
+      <Point><coordinates>32.7416667, 35.1791667,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Cape Plakoti</name>
+      <Point><coordinates>34.1666667, 35.5625,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Cape Proti</name>
+      <Point><coordinates>34.5458333, 35.6875,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Cape Pyla</name>
+      <Point><coordinates>33.85, 34.9333333,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Cape Yeranisos</name>
+      <Point><coordinates>32.2875, 35.0166667,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Cape Zevgari</name>
+      <Point><coordinates>32.9333333, 34.5708333,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>caves</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Sea Bridge, Ayia Napa</name>
+      <Point><coordinates>34.0169444444444, 34.9827777777778,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Sea caves (minor)</name>
+      <Point><coordinates>32.317826, 34.897526,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Sea Caves, Agia Napa</name>
+      <Point><coordinates>34.0536111111111, 34.9680555555556,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Sea Caves, Paphos</name>
+      <Point><coordinates>32.3319444444444, 34.8833333333333,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Xylophaghou Caves (Agii Saranda)</name>
+      <Point><coordinates>33.8863638889, 34.9526416667,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>farm</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Alamanoi Marine Farm</name>
+      <Point><coordinates>33.23277778, 34.6975,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Governer's Beach Marine Farm I</name>
+      <Point><coordinates>33.2698123769704, 34.6986839392823,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Governor's Beach Marine Farm II</name>
+      <Point><coordinates>33.2825, 34.70194444,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Harbor Marine Farm</name>
+      <Point><coordinates>33.0240875844941, 34.6422376960917,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Liopetri Marine Farm</name>
+      <Point><coordinates>33.91111111, 34.95138889,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Moni Marine Farm</name>
+      <Point><coordinates>33.197116311441, 34.6958368767317,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>island</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Ayios Georgios Island</name>
+      <Point><coordinates>32.335, 35.0741667,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Dhemoniaris</name>
+      <Point><coordinates>34.171043, 35.557146,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Galounopetra Island</name>
+      <Point><coordinates>34.563408, 35.639,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Geronisos</name>
+      <Point><coordinates>32.311963, 34.899577,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Glaro Island</name>
+      <Point><coordinates>34.4458333, 35.6583333,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Glykyotissa Island</name>
+      <Point><coordinates>33.2916667, 35.35,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Gynekopetres Island</name>
+      <Point><coordinates>34.424339, 35.588564,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kalamoulia Island</name>
+      <Point><coordinates>33.235096, 35.348119,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kannoudhion Island</name>
+      <Point><coordinates>32.271894, 35.037585,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kernathion Island</name>
+      <Point><coordinates>34.089372, 35.495906,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Khamilis Island (Blue Lagoon)</name>
+      <Point><coordinates>32.3083333, 35.0836111,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kionos Island</name>
+      <Point><coordinates>32.274083, 35.024298,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Klidhes Islands (NE Tip)</name>
+      <Point><coordinates>34.6, 35.7,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Koppo Island</name>
+      <Point><coordinates>32.2791667, 35.0291667,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kordhylia Islands</name>
+      <Point><coordinates>34.533408, 35.679092,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kormakiti Island (NN Tip)</name>
+      <Point><coordinates>32.92026, 35.40495,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Koutoulis</name>
+      <Point><coordinates>34.171348, 35.552288,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Lefkoniso</name>
+      <Point><coordinates>34.420471, 35.647486,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Limniti Island</name>
+      <Point><coordinates>32.7380313244083, 35.1815351552204,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Mazaki Island (NW Tip)</name>
+      <Point><coordinates>32.281018, 35.111985,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Messa Nisi</name>
+      <Point><coordinates>33.95, 35.1291667,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Nisha</name>
+      <Point><coordinates>34.2791667, 35.5791667,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Oxo Island</name>
+      <Point><coordinates>33.9541667, 35.125,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Pambuli Adasi</name>
+      <Point><coordinates>33.9625, 35.1180556,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Scales Island</name>
+      <Point><coordinates>34.0333333, 35.4708333,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Skamni Island</name>
+      <Point><coordinates>34.153298, 35.538197,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>marina</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Larnaca Marina</name>
+      <Point><coordinates>33.6416667, 34.9166667,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Latchi Marina</name>
+      <Point><coordinates>32.392802, 35.041366,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Limassol Sheraton Marina</name>
+      <Point><coordinates>33.1666667, 34.7083333,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Liopetri Marina</name>
+      <Point><coordinates>33.8953677, 34.959156,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Potamos (fishing)</name>
+      <Point><coordinates>33.9013731, 34.9699266,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Zygi Marina</name>
+      <Point><coordinates>33.337489, 34.727228,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>wreck</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Akrotiri Ship Wrek</name>
+      <Point><coordinates>32.930303, 34.606508,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Pafos Ship Wrek</name>
+      <Point><coordinates>32.395653, 34.790158,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Zenobia Ship Wrek (scuba)</name>
+      <Point><coordinates>33.651638, 34.8917041,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder></Folder>
+<Folder><name>Settlement</name>
+<Folder><name>abandoned</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Achna</name>
+      <Point><coordinates>33.7798535692096, 35.056623165506,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Fasli</name>
+      <Point><coordinates>32.3758071092388, 34.9762455346338,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Pano Kividhes</name>
+      <Point><coordinates>32.8367472118567, 34.7486907635392,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Paramali</name>
+      <Point><coordinates>32.7987831585933, 34.6932897341436,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Petrofani (Abandoned)</name>
+      <Point><coordinates>33.5194444444444, 35.0458333333333,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Souskiou (Abandoned)</name>
+      <Point><coordinates>32.6025, 34.7330555555556,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Varosha</name>
+      <Point><coordinates>33.9555040472956, 35.1059091760376,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>village</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Agros</name>
+      <Point><coordinates>33.0166667, 34.9166667,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Fikardou</name>
+      <Point><coordinates>33.1714475, 34.9592791,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kakopetria</name>
+      <Point><coordinates>32.9041667, 34.9916667,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kritou Terra</name>
+      <Point><coordinates>32.421703, 34.956171,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Lania</name>
+      <Point><coordinates>32.9208333, 34.825,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Latchi</name>
+      <Point><coordinates>32.392802, 35.041366,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Lofou</name>
+      <Point><coordinates>32.8756632139412, 34.8161000744482,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Omodos</name>
+      <Point><coordinates>32.8083193, 34.8471235,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Panayia</name>
+      <Point><coordinates>32.6332729717212, 34.9186775444152,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Pano Lefkara </name>
+      <Point><coordinates>33.3063888888889, 34.8658333333333,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Pano Platres</name>
+      <Point><coordinates>32.8620413576095, 34.886402618389,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Perapedi</name>
+      <Point><coordinates>32.8761092782356, 34.8594742554315,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Pissouri Village</name>
+      <Point><coordinates>32.701583, 34.670912,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Polis</name>
+      <Point><coordinates>32.4286069781769, 35.0356247037839,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Pomos</name>
+      <Point><coordinates>32.5449652612392, 35.1597013599454,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Prodromos</name>
+      <Point><coordinates>32.8324121308577, 34.9483322211728,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Pyla</name>
+      <Point><coordinates>33.6894444444444, 35.0105555555556,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Trimiklini</name>
+      <Point><coordinates>32.9125, 34.8458333,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Zygi</name>
+      <Point><coordinates>33.3377751880731, 34.7276398708512,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder></Folder>
+<Folder><name>Water</name>
+<Folder><name>dam</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Arakapas Dam</name>
+      <Point><coordinates>33.129364, 34.841457,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Argaka Magounda Dam</name>
+      <Point><coordinates>32.5058333, 35.0475,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Arminou  Dam</name>
+      <Point><coordinates>32.7371, 34.8752,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Asprokremmos  Dam</name>
+      <Point><coordinates>32.5543, 34.7259,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Athalassa Dam</name>
+      <Point><coordinates>33.390103, 35.130486,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Ayia Marina Dam</name>
+      <Point><coordinates>32.540894, 35.117044,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Evretou  Dam</name>
+      <Point><coordinates>32.4727, 34.9757,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Geunyeli Dam</name>
+      <Point><coordinates>33.3033693, 35.2342889,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kalokhorio Dam</name>
+      <Point><coordinates>33.154714, 34.982195,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kalopanyiotis Dam</name>
+      <Point><coordinates>32.825637, 35.006198,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kannaviou  Dam</name>
+      <Point><coordinates>32.5878, 34.9277,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kantou Dam</name>
+      <Point><coordinates>32.898871, 34.697908,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kiriou Dam</name>
+      <Point><coordinates>33.173282, 35.033085,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kouklia  Dam</name>
+      <Point><coordinates>33.7606, 35.1207,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kouris Dam</name>
+      <Point><coordinates>32.91785, 34.7275054,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Lefka Kafixes Dam</name>
+      <Point><coordinates>32.786604, 35.047822,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Lefkara Reservoir</name>
+      <Point><coordinates>33.2955980271454, 34.8943508540367,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Lymbia Dam</name>
+      <Point><coordinates>33.42074, 34.974255,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Marathasa Dam</name>
+      <Point><coordinates>32.837679, 35.065794,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Mavrokolympos  Dam</name>
+      <Point><coordinates>32.4058, 34.8565,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Palechori Dam</name>
+      <Point><coordinates>33.1262276441628, 34.9293964393941,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Perapedhi Dam</name>
+      <Point><coordinates>32.865312, 34.871143,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Polemidia  Dam</name>
+      <Point><coordinates>32.9888, 34.7187,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Pomos Dam</name>
+      <Point><coordinates>32.576313, 35.144804,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Pyrgos Dam</name>
+      <Point><coordinates>32.65487, 35.149765,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Tamasos  Dam</name>
+      <Point><coordinates>33.2479, 35.0167,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Tremithos-Kiti Dam</name>
+      <Point><coordinates>33.559898, 34.86936,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Trimiklini Dam</name>
+      <Point><coordinates>32.913984, 34.861976,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Yermasoyia  Dam</name>
+      <Point><coordinates>33.0843, 34.7439,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>lake</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Larnaca Salt Lake</name>
+      <Point><coordinates>33.6166667, 34.8833333,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Limassol Salt Lake</name>
+      <Point><coordinates>32.9666667, 34.6166667,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Mitsero Mine Red Lake</name>
+      <Point><coordinates>33.1166667, 35.0375,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Oroklini Lake</name>
+      <Point><coordinates>33.654554, 34.970111,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Paralimni Lake</name>
+      <Point><coordinates>33.9666667, 35.0333333,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Skouriotissa Copper Mine Lake</name>
+      <Point><coordinates>32.884367, 35.093333,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>reservoir</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Achna Reservoir</name>
+      <Point><coordinates>33.814307, 35.055321,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Agilidere Reservoir</name>
+      <Point><coordinates>33.577817, 35.250338,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Akhyritou Reservoir</name>
+      <Point><coordinates>33.824197, 35.078811,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Ayanidere Reservoir</name>
+      <Point><coordinates>33.432506, 35.325977,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Azganlidere Reservoir</name>
+      <Point><coordinates>33.843044, 35.407956,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Dipotamos Reservoir</name>
+      <Point><coordinates>33.359274, 34.851618,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Egridere Goleti</name>
+      <Point><coordinates>33.720145, 35.288972,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Ergazi Goleti</name>
+      <Point><coordinates>33.942098, 35.371367,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Gecitkoy Goleti</name>
+      <Point><coordinates>33.071321, 35.328582,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kalavasos Dam</name>
+      <Point><coordinates>33.260517, 34.803972,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Lefke Goleti</name>
+      <Point><coordinates>32.8333333, 35.1083333,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Polatdere Reservoir</name>
+      <Point><coordinates>33.17122, 35.262066,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Prodromos Reservoir</name>
+      <Point><coordinates>32.845827, 34.949696,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Statos Water Tank</name>
+      <Point><coordinates>32.6234449896757, 34.893592397301,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Uzundere Reservoir</name>
+      <Point><coordinates>33.444342, 35.317261,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+<Folder><name>waterfall</name>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Adonis Bath</name>
+      <Point><coordinates>32.4355555555556, 34.8711111111111,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Caledonian Falls</name>
+      <Point><coordinates>32.8687334, 34.9019996,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Chantara Waterfalls</name>
+      <Point><coordinates>32.8405555555556, 34.9044444444444,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Kakopetria Waterfall</name>
+      <Point><coordinates>32.9, 34.99,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Milomeri Falls</name>
+      <Point><coordinates>32.870766, 34.881944,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+   <Placemark>
+      <visibility>0</visibility> 
+      <name>Trimiklini Waterfalls</name>
+      <Point><coordinates>32.911905, 34.853476,0</coordinates></Point>
+      <description></description>
+   </Placemark>
+</Folder>
+</Folder>
+</Document>
+</kml>
